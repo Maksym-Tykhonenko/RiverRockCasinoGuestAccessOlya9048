@@ -28,9 +28,9 @@ workflows:
       - name: Set build number
         script: |
           cd $CM_BUILD_DIR/ios
-          /usr/libexec/PlistBuddy -c "Set :CFBundleVersion 5" TreKliphQrusherErpixalinaor/Info.plist
-          /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString 1.1" TreKliphQrusherErpixalinaor/Info.plist
-          /usr/libexec/PlistBuddy -c "Print :CFBundleVersion" TreKliphQrusherErpixalinaor/Info.plist
+          /usr/libexec/PlistBuddy -c "Set :CFBundleVersion 5" RiverRockCasinoGuestAccess/Info.plist
+          /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString 1.1" RiverRockCasinoGuestAccess/Info.plist
+          /usr/libexec/PlistBuddy -c "Print :CFBundleVersion" RiverRockCasinoGuestAccess/Info.plist
       - name: Set Info.plist values
         script: |
           PLIST=$CM_BUILD_DIR/ios/AwesomeProject/Info.plist
