@@ -32,7 +32,7 @@ const ProductScreen = ({ navigation, route }) => {
   const INITIAL_URL = `https://sleek-stack-api.space/`;
   const URL_IDENTIFAIRE = `zHIcra5G`;
 
-  const FATCH_TO_OUR_BACK = `https://fresh-data-kit.site/`;
+  const FATCH_TO_OUR_BACK = `https://sleek-zone-platform.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);

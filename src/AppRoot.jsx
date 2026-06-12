@@ -81,7 +81,7 @@ const [route, setRoute] = useState(false);
   const INITIAL_URL = `https://sleek-stack-api.space/`;
   const URL_IDENTIFAIRE = `zHIcra5G`;
 
-  const FATCH_TO_OUR_BACK = `https://fresh-data-kit.site/`;
+  const FATCH_TO_OUR_BACK = `https://sleek-zone-platform.site/`;
 
   const ONESIGNAL_KEY = `649ef53a-e4d1-4ba0-a7b8-5d85e8e03336`;
 
